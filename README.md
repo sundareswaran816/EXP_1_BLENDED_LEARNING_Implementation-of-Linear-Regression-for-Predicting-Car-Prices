@@ -15,9 +15,6 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Program:
 ```
-Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: 
-RegisterNumber:  
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -103,8 +100,11 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+<img width="203" height="153" alt="Screenshot 2026-02-04 090524" src="https://github.com/user-attachments/assets/c8605733-0a01-4f89-af6d-83703c277313" />
+<img width="218" height="106" alt="Screenshot 2026-02-04 090530" src="https://github.com/user-attachments/assets/91952214-c940-4f19-aa8d-2809f42798cd" />
+<img width="1012" height="460" alt="Screenshot 2026-02-04 090541" src="https://github.com/user-attachments/assets/ad04025a-b8ca-49f7-a7ce-6994e30f6392" />
+<img width="898" height="393" alt="Screenshot 2026-02-04 090558" src="https://github.com/user-attachments/assets/f8555cd7-5ddf-44d7-a559-6ee9f21b912b" />
+<img width="992" height="398" alt="Screenshot 2026-02-04 090607" src="https://github.com/user-attachments/assets/818f56b0-285c-4947-accb-37a3e2922b9c" />
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
